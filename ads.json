@@ -3,7 +3,7 @@
   "app": "CozyNest: Dream Room Stories",
   "packageName": "com.cozy.room.dream.asmr",
 
-  "adsEnabled": false,
+  "adsEnabled": true,
   "testMode": true,
 
   "admob": {
