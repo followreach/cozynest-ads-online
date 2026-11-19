@@ -2,24 +2,19 @@
 {
   "app": "CozyNest: Dream Room Stories",
   "packageName": "com.cozy.room.dream.asmr",
-
   "adsEnabled": true,
-  "testMode": true,
-
   "admob": {
     "appId": "ca-app-pub-3940256099942544~3347511713",
     "bannerId": "ca-app-pub-3940256099942544/9214589741",
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "rewardedId": "ca-app-pub-3940256099942544/5224354917"
   },
-
   "meta": {
     "enabled": false,
     "bannerPlacementId": "",
     "interstitialPlacementId": "",
     "rewardedPlacementId": ""
   },
-
   "settings": {
     "interstitialCooldownSeconds": 240,
     "rewardedCooldownSeconds": 30,
