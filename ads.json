@@ -4,10 +4,10 @@
   "packageName": "com.cozy.room.dream.asmr",
   "adsEnabled": true,
   "admob": {
-    "appId": "ca-app-pub-3940256099942544~3347511713",
-    "bannerId": "ca-app-pub-3940256099942544/9214589741",
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    "appId": "ca-app-pub-9369015949984840~5018483725",
+    "bannerId": "ca-app-pub-9369015949984840/4826912039",
+    "interstitialId": "ca-app-pub-9369015949984840/5258603983",
+    "rewardedId": "ca-app-pub-9369015949984840/3513830361"
   },
   "meta": {
     "enabled": false,
